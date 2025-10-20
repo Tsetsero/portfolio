@@ -41,5 +41,5 @@
 - **Ссылка**: [github.com/Tsetsero/ono-tebe-nado-fd](https://github.com/Tsetsero/ono-tebe-nado-fd.git)
 
 ## 📞 Контакты
-- Telegram: [@Tsetsero]
+- Telegram: @Tsetsero
 - Email: alekstsetsero@yandex.ru
