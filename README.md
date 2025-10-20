@@ -42,4 +42,4 @@
 
 ## 📞 Контакты
 - Telegram: [@Tsetsero]
-- Email: alekstdetdero@yandex.ru
+- Email: alekstsetsero@yandex.ru
